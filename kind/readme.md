@@ -1,4 +1,4 @@
-### kind-tutorial
+### kind cluster locally
 
 
 ```bash
